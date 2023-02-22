@@ -1,0 +1,30 @@
+@media screen and (max-width:640px) {
+    .flip-card-back p {
+        font-size:0.8rem;
+    }
+    .flip-card-front h1 {
+        font-size:1rem;
+        color: aliceblue;
+    }
+    .flip-card-back h1 {
+        font-size:1rem;
+        color: aliceblue;
+    }
+}
+@media screen and (min-width:253px) and (max-width:385px) {
+    .flip-card {
+        background-color: transparent;
+        height:500px;
+    }
+    .flip-card-back p {
+        font-size:0.8rem;
+    }
+    .flip-card-front h1 {
+        font-size:0.8rem;
+        color: aliceblue;
+    }
+    .flip-card-back h1 {
+        font-size:0.8rem;
+        color: aliceblue;
+    }
+}
